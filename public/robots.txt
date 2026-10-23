@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dramarianaraiko.com.br/sitemap.xml
